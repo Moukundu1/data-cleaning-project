@@ -129,7 +129,7 @@ python --version
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-cleaning-project.git
+git clone https://github.com/Moukundu1/data-cleaning-project.git
 cd data-cleaning-project
 ```
 
