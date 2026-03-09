@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Email,Phone,City,Salary,JoinDate,Gender
+1,Alice Johnson,28,alice@gmail.com,01711-234567,Dhaka,45000,2021-03-15,Female
+2,BOB SMITH,35,bob.smith@yahoo.com,,Chittagong,62000,2020-07-22,Male
+3,carol white,NULL,carol@hotmail.com,01812345678,Dhaka,38000,2019-11-05,female
+4,David Brown,42,david@@email.com,01911-567890,Sylhet,71000,2022-01-30,Male
+5,  Eve Davis  ,29,eve@gmail.com,01711234568,DHAKA,48500,2021-08-14,F
+6,Frank Miller,150,frank@company.com,01612-345679,Khulna,55000,2020-04-18,Male
+7,Grace Wilson,31,gracewilson.com,01511345680,Rajshahi,42000,2023-02-28,Female
+8,Henry Taylor,NaN,henry@gmail.com,01411-234571,,67000,14-03-2022,M
+9,Ivy Anderson,26,ivy@outlook.com,01311234572,Dhaka,39500,2021-06-10,Female
+10,Jack Thomas,38,jack@gmail.com,01711-234573,Chittagong,58000,2020-09-25,Male
+11,Alice Johnson,28,alice@gmail.com,01711-234567,Dhaka,45000,2021-03-15,Female
+12,Karen Martinez,33,karen@gmail.com,01811234574,Dhaka,-5000,2022-05-19,Female
+13,LIAM JACKSON,27,liam@yahoo.com,01911-234575,Sylhet,43000,2021-12-07,male
+14,Mia Harris,45,mia@gmail.com,01611234576,Khulna,76000,2019-08-30,Female
+15,Noah Clark,N/A,noah@hotmail.com,01511-234577,Rajshahi,52000,2023-07-11,Male
+16,Olivia Lewis,30,olivia@gmail.com,,Dhaka,46500,2022-03-24,Female
+17,Peter Robinson,55,peter@company.com,01311234578,Chittagong,88000,2020-11-15,Male
+18,Quinn Walker,22,quinn@gmail.com,01211-234579,Dhaka,31000,2023-09-02,Female
+19,Ryan Hall,39,ryan.hall@yahoo,01111234580,Sylhet,63500,2021-04-18,Male
+20,Sofia Young,34,sofia@gmail.com,01011-234581,Khulna,57000,2020-06-27,Female

@@ -1,0 +1,20 @@
+id,name,age,email,salary,gender,city,joining_date,department
+1,Rahul Sharma,28,rahul@gmail.com,50000,Male,Kolkata,2021-03-15,Engineering
+2,Priya Das,29,priya@yahoo.com,62000,Female,Mumbai,2020-07-22,Hr
+3,Amit Kumar,35,unknown@placeholder.com,75000,Male,Delhi,2019-11-01,Finance
+4,Sneha Roy,27,sneha@gmail.com,50000,Female,Kolkata,2022-01-10,Engineering
+5,Rahul Sharma,28,rahul@gmail.com,50000,Male,Kolkata,2021-03-15,Engineering
+6,Ravi Verma,29,ravi@gmail.com,45000,Male,Kolkata,2021-08-30,Marketing
+7,Anjali Singh,31,anjali@gmail.com,58000,Female,Pune,2020-04-18,Hr
+8,Deepak Patel,29,deepak@outlook.com,90000,Male,Ahmedabad,2018-06-25,Finance
+9,Meena Joshi,29,meena@gmail.com,47000,Female,Jaipur,2022-03-15,Marketing
+10,Karan Mehta,33,karan@gmail.com,50000,Male,Surat,2021-12-01,Engineering
+11,Fatima Khan,26,fatima@gmail.com,52000,Female,Hyderabad,2023-02-14,It
+12,Sanjay Gupta,29,unknown@placeholder.com,68000,Male,Chennai,2019-09-10,Finance
+13,Pooja Nair,30,pooja@gmail.com,61000,Female,Kochi,2020-10-05,It
+14,Vikram Rao,28,vikram@gmail.com,53000,Male,Bangalore,2022-03-20,Engineering
+16,Anita Bose,34,anita@gmail.com,71000,Female,Kolkata,2018-12-15,Management
+17,Suresh Pillai,29,suresh@gmail.com,49000,Male,Trivandrum,2021-07-08,It
+18,Neha Agarwal,27,neha@gmail.com,55000,Female,Lucknow,2022-08-19,Marketing
+19,Manish Tiwari,29,manish@gmail.com,63000,Male,Bhopal,2020-05-30,Finance
+20,Divya Menon,32,divya@gmail.com,70000,Female,Bangalore,2019-03-11,Management
